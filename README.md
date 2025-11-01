@@ -35,8 +35,8 @@ Repository layout
 Quick start (local, Windows PowerShell)
 1. Clone and open repo
    ```powershell
-   git clone https://github.com/roddely/Ibanking-Tuition.git
-   cd "d:\Project\Service-oriented approach\IBanking-tuition"
+   git clone https://github.com/roddely/IbankingTuiTion.git
+   cd "IBankingTuition"
    ```
 
 2. Install dependencies for each project
